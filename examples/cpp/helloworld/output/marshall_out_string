@@ -1,0 +1,78 @@
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 4679 ns @@
+** power = 4 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 4260 ns @@
+** power = 4 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 3492 ns @@
+** power = 4 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 4121 ns @@
+** power = 8 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 4469 ns @@
+** power = 8 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 3841 ns @@
+** power = 8 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 4680 ns @@
+** power = 12 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 4540 ns @@
+** power = 12 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 4330 ns @@
+** power = 12 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 14387 @@
+** power = 16 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 14388 @@
+** power = 16 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 14387 @@
+** power = 16 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 313307 @@
+** power = 20 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 316171 @@
+** power = 20 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 362825 @@
+** power = 20 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 6640773 @@
+13: {"created":"@1505971759.890176102","description":"RST_STREAM","file":"src/core/ext/transport/chttp2/transport/frame_rst_stream.c","file_line":107,"http2_error":2}
+** power = 24 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 6549351 @@
+13: {"created":"@1505971759.910319676","description":"RST_STREAM","file":"src/core/ext/transport/chttp2/transport/frame_rst_stream.c","file_line":107,"http2_error":2}
+** power = 24 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 6556893 @@
+13: {"created":"@1505971759.930474913","description":"RST_STREAM","file":"src/core/ext/transport/chttp2/transport/frame_rst_stream.c","file_line":107,"http2_error":2}
+** power = 24 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 103826007 @@
+13: {"created":"@1505971760.146369785","description":"RST_STREAM","file":"src/core/ext/transport/chttp2/transport/frame_rst_stream.c","file_line":107,"http2_error":2}
+** power = 28 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 103275101 @@
+13: {"created":"@1505971760.366495213","description":"RST_STREAM","file":"src/core/ext/transport/chttp2/transport/frame_rst_stream.c","file_line":107,"http2_error":2}
+** power = 28 **
+** yunhe: [ALERT!] You've reached SerializeFunc_0 **
+@@ diff = 103677176 @@
+13: {"created":"@1505971760.587599325","description":"RST_STREAM","file":"src/core/ext/transport/chttp2/transport/frame_rst_stream.c","file_line":107,"http2_error":2}
+** power = 28 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 8800 ns @@
+** power = 32 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 9080 ns @@
+** power = 32 **
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 8520 ns @@
+** power = 32 **
