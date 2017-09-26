@@ -1,0 +1,500 @@
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 468 ns @@
+@@ diff = 8528544 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 8088173 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 176 ns @@
+@@ diff = 4951965 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 106 ns @@
+@@ diff = 8575325 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 173 ns @@
+@@ diff = 8934862 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 108 ns @@
+@@ diff = 16109135 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 110 ns @@
+@@ diff = 8565045 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 480 ns @@
+@@ diff = 12736433 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 126 ns @@
+@@ diff = 16796991 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 178 ns @@
+@@ diff = 8196618 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 103 ns @@
+@@ diff = 12732329 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 110 ns @@
+@@ diff = 8758448 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 96 ns @@
+@@ diff = 8175275 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 392 ns @@
+@@ diff = 8797258 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 109 ns @@
+@@ diff = 8243680 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 107 ns @@
+@@ diff = 8630800 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 20206139 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 117 ns @@
+@@ diff = 4979606 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 103 ns @@
+@@ diff = 8229306 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 169 ns @@
+@@ diff = 8822494 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 177 ns @@
+@@ diff = 8054639 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 504 ns @@
+@@ diff = 16356786 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 106 ns @@
+@@ diff = 12592527 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 103 ns @@
+@@ diff = 12019209 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 101 ns @@
+@@ diff = 8802460 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 116 ns @@
+@@ diff = 8157840 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 12369035 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 160 ns @@
+@@ diff = 11710282 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 430 ns @@
+@@ diff = 11421539 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 178 ns @@
+@@ diff = 8056718 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 416 ns @@
+@@ diff = 8601593 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 105 ns @@
+@@ diff = 8046611 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 183 ns @@
+@@ diff = 12600446 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 177 ns @@
+@@ diff = 8104192 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 102 ns @@
+@@ diff = 12620622 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 104 ns @@
+@@ diff = 12135579 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 115 ns @@
+@@ diff = 20111865 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 176 ns @@
+@@ diff = 12109837 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 99 ns @@
+@@ diff = 8141501 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 446 ns @@
+@@ diff = 8711901 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 117 ns @@
+@@ diff = 4782110 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 168 ns @@
+@@ diff = 8136154 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 104 ns @@
+@@ diff = 16157533 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 418 ns @@
+@@ diff = 8416012 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 101 ns @@
+@@ diff = 12947792 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 161 ns @@
+@@ diff = 8192068 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 165 ns @@
+@@ diff = 8135695 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 99 ns @@
+@@ diff = 8499589 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 8162806 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 8012086 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 399 ns @@
+@@ diff = 8797067 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 99 ns @@
+@@ diff = 12067848 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 341 ns @@
+@@ diff = 5039914 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 107 ns @@
+@@ diff = 8164933 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 474 ns @@
+@@ diff = 8556519 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 109 ns @@
+@@ diff = 8001994 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 400 ns @@
+@@ diff = 12914383 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 96 ns @@
+@@ diff = 8309638 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 324 ns @@
+@@ diff = 8685811 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 99 ns @@
+@@ diff = 8282630 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 101 ns @@
+@@ diff = 16261988 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 99 ns @@
+@@ diff = 8225262 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 8951413 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 101 ns @@
+@@ diff = 11895232 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 103 ns @@
+@@ diff = 12590867 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 416 ns @@
+@@ diff = 16379171 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 98 ns @@
+@@ diff = 4049031 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 9003536 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 99 ns @@
+@@ diff = 8179705 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 8861868 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 8058989 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 384 ns @@
+@@ diff = 12463049 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 445 ns @@
+@@ diff = 8762205 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 399 ns @@
+@@ diff = 12173434 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 101 ns @@
+@@ diff = 8086123 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 411 ns @@
+@@ diff = 16079996 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 166 ns @@
+@@ diff = 12105929 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 107 ns @@
+@@ diff = 8298560 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 167 ns @@
+@@ diff = 8198492 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 168 ns @@
+@@ diff = 16541548 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 518 ns @@
+@@ diff = 8867781 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 98 ns @@
+@@ diff = 8193061 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 551 ns @@
+@@ diff = 8520532 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 104 ns @@
+@@ diff = 16707144 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 165 ns @@
+@@ diff = 8138860 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 115 ns @@
+@@ diff = 24144269 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 105 ns @@
+@@ diff = 8465297 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 452 ns @@
+@@ diff = 7920304 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 102 ns @@
+@@ diff = 8138212 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 362 ns @@
+@@ diff = 8507510 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 106 ns @@
+@@ diff = 8021801 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 105 ns @@
+@@ diff = 8415684 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 453 ns @@
+@@ diff = 20675090 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 101 ns @@
+@@ diff = 8420709 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 110 ns @@
+@@ diff = 12264630 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 96 ns @@
+@@ diff = 8535022 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 111 ns @@
+@@ diff = 8532248 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 103 ns @@
+@@ diff = 8501682 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 103 ns @@
+@@ diff = 12093814 @@
+Greeter received: 2
+** yunhe: rpc start
+** yunhe: You've reached SerializeFunc_1 **
+@@ diff = 100 ns @@
+@@ diff = 8057342 @@
+Greeter received: 2
