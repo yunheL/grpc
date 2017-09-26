@@ -1,0 +1,1300 @@
+experiment 1 start
+@@ int marshall func1 diff = 477 @@
+@@ int rtt diff = 992081 @@
+@@ int marshall func1 diff = 170 @@
+@@ int rtt diff = 192518 @@
+@@ double marshall func1 diff = 158 @@
+@@ double rtt diff = 209736 @@
+@@ circle marshall func1 diff = 294 @@
+@@ circle rtt diff = 199126 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 536 @@
+@@ int rtt diff = 668816 @@
+@@ int marshall func1 diff = 102 @@
+@@ int rtt diff = 131564 @@
+@@ double marshall func1 diff = 209 @@
+@@ double rtt diff = 176390 @@
+@@ circle marshall func1 diff = 190 @@
+@@ circle rtt diff = 112578 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 134 @@
+@@ int rtt diff = 581866 @@
+@@ int marshall func1 diff = 88 @@
+@@ int rtt diff = 143625 @@
+@@ double marshall func1 diff = 108 @@
+@@ double rtt diff = 114853 @@
+@@ circle marshall func1 diff = 224 @@
+@@ circle rtt diff = 93148 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 126 @@
+@@ int rtt diff = 687510 @@
+@@ int marshall func1 diff = 105 @@
+@@ int rtt diff = 85050 @@
+@@ double marshall func1 diff = 93 @@
+@@ double rtt diff = 84717 @@
+@@ circle marshall func1 diff = 188 @@
+@@ circle rtt diff = 90474 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 190 @@
+@@ int rtt diff = 584816 @@
+@@ int marshall func1 diff = 94 @@
+@@ int rtt diff = 146015 @@
+@@ double marshall func1 diff = 88 @@
+@@ double rtt diff = 114258 @@
+@@ circle marshall func1 diff = 181 @@
+@@ circle rtt diff = 135291 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 143 @@
+@@ int rtt diff = 580283 @@
+@@ int marshall func1 diff = 98 @@
+@@ int rtt diff = 102706 @@
+@@ double marshall func1 diff = 121 @@
+@@ double rtt diff = 115438 @@
+@@ circle marshall func1 diff = 181 @@
+@@ circle rtt diff = 96740 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 195 @@
+@@ int rtt diff = 535208 @@
+@@ int marshall func1 diff = 127 @@
+@@ int rtt diff = 123828 @@
+@@ double marshall func1 diff = 101 @@
+@@ double rtt diff = 141070 @@
+@@ circle marshall func1 diff = 179 @@
+@@ circle rtt diff = 140570 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 192 @@
+@@ int rtt diff = 575385 @@
+@@ int marshall func1 diff = 113 @@
+@@ int rtt diff = 145087 @@
+@@ double marshall func1 diff = 88 @@
+@@ double rtt diff = 124459 @@
+@@ circle marshall func1 diff = 169 @@
+@@ circle rtt diff = 99982 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 321 @@
+@@ int rtt diff = 551288 @@
+@@ int marshall func1 diff = 90 @@
+@@ int rtt diff = 101985 @@
+@@ double marshall func1 diff = 119 @@
+@@ double rtt diff = 83418 @@
+@@ circle marshall func1 diff = 248 @@
+@@ circle rtt diff = 91113 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 175 @@
+@@ int rtt diff = 582906 @@
+@@ int marshall func1 diff = 101 @@
+@@ int rtt diff = 133836 @@
+@@ double marshall func1 diff = 100 @@
+@@ double rtt diff = 125658 @@
+@@ circle marshall func1 diff = 173 @@
+@@ circle rtt diff = 164666 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 279 @@
+@@ int rtt diff = 560871 @@
+@@ int marshall func1 diff = 100 @@
+@@ int rtt diff = 132597 @@
+@@ double marshall func1 diff = 121 @@
+@@ double rtt diff = 115348 @@
+@@ circle marshall func1 diff = 273 @@
+@@ circle rtt diff = 137009 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 183 @@
+@@ int rtt diff = 482889 @@
+@@ int marshall func1 diff = 87 @@
+@@ int rtt diff = 69822 @@
+@@ double marshall func1 diff = 119 @@
+@@ double rtt diff = 86265 @@
+@@ circle marshall func1 diff = 242 @@
+@@ circle rtt diff = 71930 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 135 @@
+@@ int rtt diff = 501149 @@
+@@ int marshall func1 diff = 106 @@
+@@ int rtt diff = 90489 @@
+@@ double marshall func1 diff = 92 @@
+@@ double rtt diff = 102471 @@
+@@ circle marshall func1 diff = 302 @@
+@@ circle rtt diff = 116558 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 182 @@
+@@ int rtt diff = 473546 @@
+@@ int marshall func1 diff = 126 @@
+@@ int rtt diff = 92817 @@
+@@ double marshall func1 diff = 95 @@
+@@ double rtt diff = 101610 @@
+@@ circle marshall func1 diff = 167 @@
+@@ circle rtt diff = 124940 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 180 @@
+@@ int rtt diff = 637532 @@
+@@ int marshall func1 diff = 91 @@
+@@ int rtt diff = 124426 @@
+@@ double marshall func1 diff = 101 @@
+@@ double rtt diff = 99396 @@
+@@ circle marshall func1 diff = 198 @@
+@@ circle rtt diff = 124975 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 168 @@
+@@ int rtt diff = 508257 @@
+@@ int marshall func1 diff = 91 @@
+@@ int rtt diff = 102209 @@
+@@ double marshall func1 diff = 83 @@
+@@ double rtt diff = 78418 @@
+@@ circle marshall func1 diff = 181 @@
+@@ circle rtt diff = 94324 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 207 @@
+@@ int rtt diff = 473059 @@
+@@ int marshall func1 diff = 105 @@
+@@ int rtt diff = 114244 @@
+@@ double marshall func1 diff = 103 @@
+@@ double rtt diff = 99109 @@
+@@ circle marshall func1 diff = 166 @@
+@@ circle rtt diff = 105599 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 132 @@
+@@ int rtt diff = 570871 @@
+@@ int marshall func1 diff = 96 @@
+@@ int rtt diff = 123784 @@
+@@ double marshall func1 diff = 168 @@
+@@ double rtt diff = 111407 @@
+@@ circle marshall func1 diff = 277 @@
+@@ circle rtt diff = 148959 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 107 @@
+@@ int rtt diff = 537327 @@
+@@ int marshall func1 diff = 130 @@
+@@ int rtt diff = 97463 @@
+@@ double marshall func1 diff = 83 @@
+@@ double rtt diff = 75623 @@
+@@ circle marshall func1 diff = 160 @@
+@@ circle rtt diff = 73888 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 117 @@
+@@ int rtt diff = 490596 @@
+@@ int marshall func1 diff = 91 @@
+@@ int rtt diff = 133980 @@
+@@ double marshall func1 diff = 98 @@
+@@ double rtt diff = 147626 @@
+@@ circle marshall func1 diff = 176 @@
+@@ circle rtt diff = 162634 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 116 @@
+@@ int rtt diff = 541441 @@
+@@ int marshall func1 diff = 102 @@
+@@ int rtt diff = 104902 @@
+@@ double marshall func1 diff = 98 @@
+@@ double rtt diff = 100392 @@
+@@ circle marshall func1 diff = 189 @@
+@@ circle rtt diff = 88000 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 250 @@
+@@ int rtt diff = 574889 @@
+@@ int marshall func1 diff = 97 @@
+@@ int rtt diff = 131391 @@
+@@ double marshall func1 diff = 87 @@
+@@ double rtt diff = 111668 @@
+@@ circle marshall func1 diff = 561 @@
+@@ circle rtt diff = 126166 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 198 @@
+@@ int rtt diff = 473897 @@
+@@ int marshall func1 diff = 92 @@
+@@ int rtt diff = 92104 @@
+@@ double marshall func1 diff = 91 @@
+@@ double rtt diff = 101454 @@
+@@ circle marshall func1 diff = 191 @@
+@@ circle rtt diff = 96200 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 120 @@
+@@ int rtt diff = 460355 @@
+@@ int marshall func1 diff = 85 @@
+@@ int rtt diff = 90801 @@
+@@ double marshall func1 diff = 81 @@
+@@ double rtt diff = 110593 @@
+@@ circle marshall func1 diff = 195 @@
+@@ circle rtt diff = 94095 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 140 @@
+@@ int rtt diff = 457535 @@
+@@ int marshall func1 diff = 86 @@
+@@ int rtt diff = 84906 @@
+@@ double marshall func1 diff = 94 @@
+@@ double rtt diff = 100123 @@
+@@ circle marshall func1 diff = 176 @@
+@@ circle rtt diff = 89774 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 187 @@
+@@ int rtt diff = 495316 @@
+@@ int marshall func1 diff = 99 @@
+@@ int rtt diff = 91610 @@
+@@ double marshall func1 diff = 95 @@
+@@ double rtt diff = 112881 @@
+@@ circle marshall func1 diff = 212 @@
+@@ circle rtt diff = 88799 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 189 @@
+@@ int rtt diff = 491902 @@
+@@ int marshall func1 diff = 106 @@
+@@ int rtt diff = 94421 @@
+@@ double marshall func1 diff = 265 @@
+@@ double rtt diff = 105993 @@
+@@ circle marshall func1 diff = 297 @@
+@@ circle rtt diff = 89818 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 192 @@
+@@ int rtt diff = 478429 @@
+@@ int marshall func1 diff = 101 @@
+@@ int rtt diff = 149573 @@
+@@ double marshall func1 diff = 98 @@
+@@ double rtt diff = 114055 @@
+@@ circle marshall func1 diff = 195 @@
+@@ circle rtt diff = 90268 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 182 @@
+@@ int rtt diff = 458700 @@
+@@ int marshall func1 diff = 91 @@
+@@ int rtt diff = 87715 @@
+@@ double marshall func1 diff = 119 @@
+@@ double rtt diff = 106496 @@
+@@ circle marshall func1 diff = 195 @@
+@@ circle rtt diff = 91831 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 157 @@
+@@ int rtt diff = 451442 @@
+@@ int marshall func1 diff = 93 @@
+@@ int rtt diff = 134722 @@
+@@ double marshall func1 diff = 98 @@
+@@ double rtt diff = 128985 @@
+@@ circle marshall func1 diff = 167 @@
+@@ circle rtt diff = 133022 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 200 @@
+@@ int rtt diff = 550620 @@
+@@ int marshall func1 diff = 99 @@
+@@ int rtt diff = 119348 @@
+@@ double marshall func1 diff = 93 @@
+@@ double rtt diff = 124520 @@
+@@ circle marshall func1 diff = 281 @@
+@@ circle rtt diff = 119529 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 121 @@
+@@ int rtt diff = 513173 @@
+@@ int marshall func1 diff = 98 @@
+@@ int rtt diff = 92316 @@
+@@ double marshall func1 diff = 83 @@
+@@ double rtt diff = 90021 @@
+@@ circle marshall func1 diff = 169 @@
+@@ circle rtt diff = 98998 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 124 @@
+@@ int rtt diff = 546981 @@
+@@ int marshall func1 diff = 100 @@
+@@ int rtt diff = 120519 @@
+@@ double marshall func1 diff = 96 @@
+@@ double rtt diff = 114353 @@
+@@ circle marshall func1 diff = 172 @@
+@@ circle rtt diff = 74748 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 109 @@
+@@ int rtt diff = 492813 @@
+@@ int marshall func1 diff = 94 @@
+@@ int rtt diff = 107434 @@
+@@ double marshall func1 diff = 88 @@
+@@ double rtt diff = 127362 @@
+@@ circle marshall func1 diff = 163 @@
+@@ circle rtt diff = 145242 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 195 @@
+@@ int rtt diff = 470572 @@
+@@ int marshall func1 diff = 134 @@
+@@ int rtt diff = 83645 @@
+@@ double marshall func1 diff = 103 @@
+@@ double rtt diff = 71366 @@
+@@ circle marshall func1 diff = 227 @@
+@@ circle rtt diff = 117468 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 201 @@
+@@ int rtt diff = 574250 @@
+@@ int marshall func1 diff = 101 @@
+@@ int rtt diff = 115392 @@
+@@ double marshall func1 diff = 104 @@
+@@ double rtt diff = 96273 @@
+@@ circle marshall func1 diff = 211 @@
+@@ circle rtt diff = 111748 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 136 @@
+@@ int rtt diff = 511425 @@
+@@ int marshall func1 diff = 96 @@
+@@ int rtt diff = 115211 @@
+@@ double marshall func1 diff = 88 @@
+@@ double rtt diff = 94502 @@
+@@ circle marshall func1 diff = 229 @@
+@@ circle rtt diff = 114005 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 161 @@
+@@ int rtt diff = 469190 @@
+@@ int marshall func1 diff = 93 @@
+@@ int rtt diff = 107174 @@
+@@ double marshall func1 diff = 101 @@
+@@ double rtt diff = 102529 @@
+@@ circle marshall func1 diff = 187 @@
+@@ circle rtt diff = 118359 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 171 @@
+@@ int rtt diff = 495137 @@
+@@ int marshall func1 diff = 93 @@
+@@ int rtt diff = 109250 @@
+@@ double marshall func1 diff = 94 @@
+@@ double rtt diff = 89049 @@
+@@ circle marshall func1 diff = 175 @@
+@@ circle rtt diff = 117733 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 134 @@
+@@ int rtt diff = 561312 @@
+@@ int marshall func1 diff = 94 @@
+@@ int rtt diff = 99723 @@
+@@ double marshall func1 diff = 104 @@
+@@ double rtt diff = 77522 @@
+@@ circle marshall func1 diff = 194 @@
+@@ circle rtt diff = 85311 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 118 @@
+@@ int rtt diff = 466337 @@
+@@ int marshall func1 diff = 97 @@
+@@ int rtt diff = 110045 @@
+@@ double marshall func1 diff = 87 @@
+@@ double rtt diff = 87801 @@
+@@ circle marshall func1 diff = 189 @@
+@@ circle rtt diff = 111206 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 184 @@
+@@ int rtt diff = 453476 @@
+@@ int marshall func1 diff = 109 @@
+@@ int rtt diff = 75558 @@
+@@ double marshall func1 diff = 89 @@
+@@ double rtt diff = 125440 @@
+@@ circle marshall func1 diff = 180 @@
+@@ circle rtt diff = 128766 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 171 @@
+@@ int rtt diff = 506254 @@
+@@ int marshall func1 diff = 108 @@
+@@ int rtt diff = 112701 @@
+@@ double marshall func1 diff = 90 @@
+@@ double rtt diff = 83423 @@
+@@ circle marshall func1 diff = 166 @@
+@@ circle rtt diff = 100372 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 212 @@
+@@ int rtt diff = 583491 @@
+@@ int marshall func1 diff = 112 @@
+@@ int rtt diff = 125915 @@
+@@ double marshall func1 diff = 96 @@
+@@ double rtt diff = 123916 @@
+@@ circle marshall func1 diff = 184 @@
+@@ circle rtt diff = 116802 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 195 @@
+@@ int rtt diff = 559514 @@
+@@ int marshall func1 diff = 101 @@
+@@ int rtt diff = 114250 @@
+@@ double marshall func1 diff = 110 @@
+@@ double rtt diff = 114099 @@
+@@ circle marshall func1 diff = 158 @@
+@@ circle rtt diff = 77617 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 180 @@
+@@ int rtt diff = 476218 @@
+@@ int marshall func1 diff = 104 @@
+@@ int rtt diff = 123348 @@
+@@ double marshall func1 diff = 110 @@
+@@ double rtt diff = 95743 @@
+@@ circle marshall func1 diff = 202 @@
+@@ circle rtt diff = 83940 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 315 @@
+@@ int rtt diff = 533226 @@
+@@ int marshall func1 diff = 91 @@
+@@ int rtt diff = 112065 @@
+@@ double marshall func1 diff = 102 @@
+@@ double rtt diff = 90099 @@
+@@ circle marshall func1 diff = 193 @@
+@@ circle rtt diff = 111191 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 217 @@
+@@ int rtt diff = 503445 @@
+@@ int marshall func1 diff = 104 @@
+@@ int rtt diff = 122831 @@
+@@ double marshall func1 diff = 114 @@
+@@ double rtt diff = 117030 @@
+@@ circle marshall func1 diff = 177 @@
+@@ circle rtt diff = 81632 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 139 @@
+@@ int rtt diff = 500511 @@
+@@ int marshall func1 diff = 112 @@
+@@ int rtt diff = 109983 @@
+@@ double marshall func1 diff = 100 @@
+@@ double rtt diff = 134860 @@
+@@ circle marshall func1 diff = 201 @@
+@@ circle rtt diff = 104152 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 151 @@
+@@ int rtt diff = 526876 @@
+@@ int marshall func1 diff = 103 @@
+@@ int rtt diff = 92456 @@
+@@ double marshall func1 diff = 118 @@
+@@ double rtt diff = 100697 @@
+@@ circle marshall func1 diff = 202 @@
+@@ circle rtt diff = 94990 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 380 @@
+@@ int rtt diff = 572436 @@
+@@ int marshall func1 diff = 88 @@
+@@ int rtt diff = 117927 @@
+@@ double marshall func1 diff = 103 @@
+@@ double rtt diff = 109856 @@
+@@ circle marshall func1 diff = 312 @@
+@@ circle rtt diff = 121309 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 140 @@
+@@ int rtt diff = 482939 @@
+@@ int marshall func1 diff = 107 @@
+@@ int rtt diff = 143460 @@
+@@ double marshall func1 diff = 104 @@
+@@ double rtt diff = 110390 @@
+@@ circle marshall func1 diff = 193 @@
+@@ circle rtt diff = 101679 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 127 @@
+@@ int rtt diff = 538145 @@
+@@ int marshall func1 diff = 93 @@
+@@ int rtt diff = 120338 @@
+@@ double marshall func1 diff = 99 @@
+@@ double rtt diff = 95172 @@
+@@ circle marshall func1 diff = 181 @@
+@@ circle rtt diff = 90830 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 137 @@
+@@ int rtt diff = 531478 @@
+@@ int marshall func1 diff = 99 @@
+@@ int rtt diff = 83446 @@
+@@ double marshall func1 diff = 104 @@
+@@ double rtt diff = 92062 @@
+@@ circle marshall func1 diff = 190 @@
+@@ circle rtt diff = 97592 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 140 @@
+@@ int rtt diff = 608627 @@
+@@ int marshall func1 diff = 122 @@
+@@ int rtt diff = 95499 @@
+@@ double marshall func1 diff = 100 @@
+@@ double rtt diff = 92931 @@
+@@ circle marshall func1 diff = 179 @@
+@@ circle rtt diff = 100087 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 133 @@
+@@ int rtt diff = 520488 @@
+@@ int marshall func1 diff = 100 @@
+@@ int rtt diff = 108384 @@
+@@ double marshall func1 diff = 88 @@
+@@ double rtt diff = 117664 @@
+@@ circle marshall func1 diff = 174 @@
+@@ circle rtt diff = 90045 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 109 @@
+@@ int rtt diff = 555444 @@
+@@ int marshall func1 diff = 91 @@
+@@ int rtt diff = 94604 @@
+@@ double marshall func1 diff = 110 @@
+@@ double rtt diff = 102253 @@
+@@ circle marshall func1 diff = 178 @@
+@@ circle rtt diff = 67826 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 130 @@
+@@ int rtt diff = 477111 @@
+@@ int marshall func1 diff = 97 @@
+@@ int rtt diff = 90064 @@
+@@ double marshall func1 diff = 94 @@
+@@ double rtt diff = 84075 @@
+@@ circle marshall func1 diff = 339 @@
+@@ circle rtt diff = 99749 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 314 @@
+@@ int rtt diff = 623470 @@
+@@ int marshall func1 diff = 94 @@
+@@ int rtt diff = 139949 @@
+@@ double marshall func1 diff = 102 @@
+@@ double rtt diff = 134479 @@
+@@ circle marshall func1 diff = 200 @@
+@@ circle rtt diff = 136392 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 108 @@
+@@ int rtt diff = 507530 @@
+@@ int marshall func1 diff = 94 @@
+@@ int rtt diff = 109629 @@
+@@ double marshall func1 diff = 93 @@
+@@ double rtt diff = 89529 @@
+@@ circle marshall func1 diff = 203 @@
+@@ circle rtt diff = 116686 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 143 @@
+@@ int rtt diff = 488765 @@
+@@ int marshall func1 diff = 97 @@
+@@ int rtt diff = 120226 @@
+@@ double marshall func1 diff = 104 @@
+@@ double rtt diff = 113381 @@
+@@ circle marshall func1 diff = 173 @@
+@@ circle rtt diff = 113045 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 133 @@
+@@ int rtt diff = 573440 @@
+@@ int marshall func1 diff = 102 @@
+@@ int rtt diff = 135905 @@
+@@ double marshall func1 diff = 94 @@
+@@ double rtt diff = 110791 @@
+@@ circle marshall func1 diff = 176 @@
+@@ circle rtt diff = 136318 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 323 @@
+@@ int rtt diff = 601512 @@
+@@ int marshall func1 diff = 94 @@
+@@ int rtt diff = 135069 @@
+@@ double marshall func1 diff = 98 @@
+@@ double rtt diff = 146880 @@
+@@ circle marshall func1 diff = 207 @@
+@@ circle rtt diff = 144621 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 170 @@
+@@ int rtt diff = 561897 @@
+@@ int marshall func1 diff = 108 @@
+@@ int rtt diff = 134144 @@
+@@ double marshall func1 diff = 105 @@
+@@ double rtt diff = 132209 @@
+@@ circle marshall func1 diff = 197 @@
+@@ circle rtt diff = 175991 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 157 @@
+@@ int rtt diff = 528896 @@
+@@ int marshall func1 diff = 117 @@
+@@ int rtt diff = 89930 @@
+@@ double marshall func1 diff = 104 @@
+@@ double rtt diff = 75935 @@
+@@ circle marshall func1 diff = 180 @@
+@@ circle rtt diff = 79020 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 181 @@
+@@ int rtt diff = 544183 @@
+@@ int marshall func1 diff = 106 @@
+@@ int rtt diff = 83210 @@
+@@ double marshall func1 diff = 97 @@
+@@ double rtt diff = 96272 @@
+@@ circle marshall func1 diff = 190 @@
+@@ circle rtt diff = 91784 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 174 @@
+@@ int rtt diff = 558338 @@
+@@ int marshall func1 diff = 79 @@
+@@ int rtt diff = 91049 @@
+@@ double marshall func1 diff = 101 @@
+@@ double rtt diff = 101807 @@
+@@ circle marshall func1 diff = 238 @@
+@@ circle rtt diff = 113326 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 244 @@
+@@ int rtt diff = 489785 @@
+@@ int marshall func1 diff = 92 @@
+@@ int rtt diff = 101924 @@
+@@ double marshall func1 diff = 93 @@
+@@ double rtt diff = 115442 @@
+@@ circle marshall func1 diff = 183 @@
+@@ circle rtt diff = 89841 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 135 @@
+@@ int rtt diff = 503318 @@
+@@ int marshall func1 diff = 86 @@
+@@ int rtt diff = 86356 @@
+@@ double marshall func1 diff = 102 @@
+@@ double rtt diff = 105199 @@
+@@ circle marshall func1 diff = 198 @@
+@@ circle rtt diff = 87852 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 137 @@
+@@ int rtt diff = 593659 @@
+@@ int marshall func1 diff = 99 @@
+@@ int rtt diff = 125643 @@
+@@ double marshall func1 diff = 92 @@
+@@ double rtt diff = 124892 @@
+@@ circle marshall func1 diff = 179 @@
+@@ circle rtt diff = 84069 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 135 @@
+@@ int rtt diff = 570350 @@
+@@ int marshall func1 diff = 94 @@
+@@ int rtt diff = 133397 @@
+@@ double marshall func1 diff = 95 @@
+@@ double rtt diff = 124767 @@
+@@ circle marshall func1 diff = 191 @@
+@@ circle rtt diff = 125710 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 123 @@
+@@ int rtt diff = 515246 @@
+@@ int marshall func1 diff = 105 @@
+@@ int rtt diff = 94257 @@
+@@ double marshall func1 diff = 97 @@
+@@ double rtt diff = 109773 @@
+@@ circle marshall func1 diff = 174 @@
+@@ circle rtt diff = 118044 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 266 @@
+@@ int rtt diff = 548263 @@
+@@ int marshall func1 diff = 120 @@
+@@ int rtt diff = 113604 @@
+@@ double marshall func1 diff = 89 @@
+@@ double rtt diff = 120144 @@
+@@ circle marshall func1 diff = 196 @@
+@@ circle rtt diff = 76159 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 187 @@
+@@ int rtt diff = 524170 @@
+@@ int marshall func1 diff = 109 @@
+@@ int rtt diff = 137754 @@
+@@ double marshall func1 diff = 101 @@
+@@ double rtt diff = 129489 @@
+@@ circle marshall func1 diff = 179 @@
+@@ circle rtt diff = 131546 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 124 @@
+@@ int rtt diff = 482357 @@
+@@ int marshall func1 diff = 91 @@
+@@ int rtt diff = 123435 @@
+@@ double marshall func1 diff = 89 @@
+@@ double rtt diff = 143203 @@
+@@ circle marshall func1 diff = 210 @@
+@@ circle rtt diff = 132935 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 253 @@
+@@ int rtt diff = 504109 @@
+@@ int marshall func1 diff = 93 @@
+@@ int rtt diff = 143696 @@
+@@ double marshall func1 diff = 99 @@
+@@ double rtt diff = 128275 @@
+@@ circle marshall func1 diff = 201 @@
+@@ circle rtt diff = 101656 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 189 @@
+@@ int rtt diff = 514200 @@
+@@ int marshall func1 diff = 97 @@
+@@ int rtt diff = 100819 @@
+@@ double marshall func1 diff = 104 @@
+@@ double rtt diff = 110465 @@
+@@ circle marshall func1 diff = 214 @@
+@@ circle rtt diff = 98603 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 137 @@
+@@ int rtt diff = 466353 @@
+@@ int marshall func1 diff = 86 @@
+@@ int rtt diff = 90445 @@
+@@ double marshall func1 diff = 99 @@
+@@ double rtt diff = 124415 @@
+@@ circle marshall func1 diff = 277 @@
+@@ circle rtt diff = 90391 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 114 @@
+@@ int rtt diff = 476106 @@
+@@ int marshall func1 diff = 91 @@
+@@ int rtt diff = 114820 @@
+@@ double marshall func1 diff = 107 @@
+@@ double rtt diff = 115310 @@
+@@ circle marshall func1 diff = 227 @@
+@@ circle rtt diff = 120700 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 287 @@
+@@ int rtt diff = 493748 @@
+@@ int marshall func1 diff = 111 @@
+@@ int rtt diff = 110377 @@
+@@ double marshall func1 diff = 113 @@
+@@ double rtt diff = 92045 @@
+@@ circle marshall func1 diff = 190 @@
+@@ circle rtt diff = 113907 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 128 @@
+@@ int rtt diff = 502660 @@
+@@ int marshall func1 diff = 105 @@
+@@ int rtt diff = 133459 @@
+@@ double marshall func1 diff = 102 @@
+@@ double rtt diff = 124658 @@
+@@ circle marshall func1 diff = 201 @@
+@@ circle rtt diff = 136677 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 132 @@
+@@ int rtt diff = 452412 @@
+@@ int marshall func1 diff = 95 @@
+@@ int rtt diff = 102269 @@
+@@ double marshall func1 diff = 107 @@
+@@ double rtt diff = 83276 @@
+@@ circle marshall func1 diff = 180 @@
+@@ circle rtt diff = 118136 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 170 @@
+@@ int rtt diff = 474234 @@
+@@ int marshall func1 diff = 96 @@
+@@ int rtt diff = 119269 @@
+@@ double marshall func1 diff = 89 @@
+@@ double rtt diff = 89073 @@
+@@ circle marshall func1 diff = 188 @@
+@@ circle rtt diff = 86699 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 192 @@
+@@ int rtt diff = 492433 @@
+@@ int marshall func1 diff = 103 @@
+@@ int rtt diff = 108893 @@
+@@ double marshall func1 diff = 101 @@
+@@ double rtt diff = 95699 @@
+@@ circle marshall func1 diff = 180 @@
+@@ circle rtt diff = 136655 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 108 @@
+@@ int rtt diff = 552318 @@
+@@ int marshall func1 diff = 80 @@
+@@ int rtt diff = 111447 @@
+@@ double marshall func1 diff = 104 @@
+@@ double rtt diff = 96606 @@
+@@ circle marshall func1 diff = 167 @@
+@@ circle rtt diff = 130775 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 183 @@
+@@ int rtt diff = 536898 @@
+@@ int marshall func1 diff = 93 @@
+@@ int rtt diff = 127505 @@
+@@ double marshall func1 diff = 139 @@
+@@ double rtt diff = 102548 @@
+@@ circle marshall func1 diff = 200 @@
+@@ circle rtt diff = 97485 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 179 @@
+@@ int rtt diff = 466186 @@
+@@ int marshall func1 diff = 94 @@
+@@ int rtt diff = 83850 @@
+@@ double marshall func1 diff = 106 @@
+@@ double rtt diff = 76218 @@
+@@ circle marshall func1 diff = 181 @@
+@@ circle rtt diff = 65197 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 241 @@
+@@ int rtt diff = 446463 @@
+@@ int marshall func1 diff = 89 @@
+@@ int rtt diff = 86179 @@
+@@ double marshall func1 diff = 106 @@
+@@ double rtt diff = 100646 @@
+@@ circle marshall func1 diff = 240 @@
+@@ circle rtt diff = 72420 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 187 @@
+@@ int rtt diff = 459624 @@
+@@ int marshall func1 diff = 80 @@
+@@ int rtt diff = 87858 @@
+@@ double marshall func1 diff = 117 @@
+@@ double rtt diff = 87379 @@
+@@ circle marshall func1 diff = 250 @@
+@@ circle rtt diff = 82907 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 180 @@
+@@ int rtt diff = 460325 @@
+@@ int marshall func1 diff = 85 @@
+@@ int rtt diff = 88844 @@
+@@ double marshall func1 diff = 109 @@
+@@ double rtt diff = 87854 @@
+@@ circle marshall func1 diff = 200 @@
+@@ circle rtt diff = 86945 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 112 @@
+@@ int rtt diff = 416125 @@
+@@ int marshall func1 diff = 115 @@
+@@ int rtt diff = 99955 @@
+@@ double marshall func1 diff = 101 @@
+@@ double rtt diff = 90501 @@
+@@ circle marshall func1 diff = 281 @@
+@@ circle rtt diff = 123966 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 147 @@
+@@ int rtt diff = 518897 @@
+@@ int marshall func1 diff = 101 @@
+@@ int rtt diff = 121786 @@
+@@ double marshall func1 diff = 231 @@
+@@ double rtt diff = 150012 @@
+@@ circle marshall func1 diff = 200 @@
+@@ circle rtt diff = 95305 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 122 @@
+@@ int rtt diff = 587137 @@
+@@ int marshall func1 diff = 100 @@
+@@ int rtt diff = 129508 @@
+@@ double marshall func1 diff = 160 @@
+@@ double rtt diff = 82053 @@
+@@ circle marshall func1 diff = 184 @@
+@@ circle rtt diff = 87502 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 209 @@
+@@ int rtt diff = 590716 @@
+@@ int marshall func1 diff = 101 @@
+@@ int rtt diff = 124012 @@
+@@ double marshall func1 diff = 109 @@
+@@ double rtt diff = 111751 @@
+@@ circle marshall func1 diff = 164 @@
+@@ circle rtt diff = 85296 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 147 @@
+@@ int rtt diff = 580478 @@
+@@ int marshall func1 diff = 102 @@
+@@ int rtt diff = 128120 @@
+@@ double marshall func1 diff = 88 @@
+@@ double rtt diff = 121244 @@
+@@ circle marshall func1 diff = 186 @@
+@@ circle rtt diff = 107358 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 494 @@
+@@ int rtt diff = 584921 @@
+@@ int marshall func1 diff = 102 @@
+@@ int rtt diff = 135297 @@
+@@ double marshall func1 diff = 91 @@
+@@ double rtt diff = 96170 @@
+@@ circle marshall func1 diff = 189 @@
+@@ circle rtt diff = 130065 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 241 @@
+@@ int rtt diff = 583235 @@
+@@ int marshall func1 diff = 90 @@
+@@ int rtt diff = 141426 @@
+@@ double marshall func1 diff = 98 @@
+@@ double rtt diff = 135655 @@
+@@ circle marshall func1 diff = 187 @@
+@@ circle rtt diff = 109560 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 261 @@
+@@ int rtt diff = 564998 @@
+@@ int marshall func1 diff = 93 @@
+@@ int rtt diff = 90810 @@
+@@ double marshall func1 diff = 101 @@
+@@ double rtt diff = 91325 @@
+@@ circle marshall func1 diff = 162 @@
+@@ circle rtt diff = 89561 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 124 @@
+@@ int rtt diff = 501031 @@
+@@ int marshall func1 diff = 114 @@
+@@ int rtt diff = 160462 @@
+@@ double marshall func1 diff = 102 @@
+@@ double rtt diff = 105308 @@
+@@ circle marshall func1 diff = 176 @@
+@@ circle rtt diff = 112596 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
+experiment 1 start
+@@ int marshall func1 diff = 251 @@
+@@ int rtt diff = 555394 @@
+@@ int marshall func1 diff = 106 @@
+@@ int rtt diff = 108736 @@
+@@ double marshall func1 diff = 99 @@
+@@ double rtt diff = 98161 @@
+@@ circle marshall func1 diff = 187 @@
+@@ circle rtt diff = 84984 @@
+outInt =  2 + 1 = 3
+outInt =  5 + 1 = 5
+outDouble = 3.5/2 = 1.75
+Circle radius from 2.0 to: 3.1
